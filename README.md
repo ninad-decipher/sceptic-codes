@@ -1,2 +1,2 @@
-# sceptic-codes
-the beginning
+# c-practice
+
